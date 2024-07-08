@@ -29,3 +29,5 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repo
    ```sh
    git clone https://github.com/DilshanIndunil/weather-app-javascrript.git
+
+![weather](https://github.com/DilshanIndunil/weather-app-javascript/assets/163544478/32f8afcb-9e63-4622-99ea-9ac28b99c2ed)
